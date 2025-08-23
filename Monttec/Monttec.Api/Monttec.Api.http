@@ -1,0 +1,6 @@
+@Monttec.Api_HostAddress = http://localhost:5250
+
+GET {{Monttec.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

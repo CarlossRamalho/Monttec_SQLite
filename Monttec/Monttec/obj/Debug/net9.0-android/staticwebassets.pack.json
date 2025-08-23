@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Monttec SQL\\Monttec\\Monttec\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\Monttec.styles.css",
+      "PackagePath": "staticwebassets\\Monttec.styles.css"
+    },
+    {
+      "Id": "D:\\Monttec SQL\\Monttec\\Monttec\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Monttec SQL\\Monttec\\Monttec\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Monttec SQL\\Monttec\\Monttec\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Monttec SQL\\Monttec\\Monttec\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.Monttec.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.Monttec.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.build.Monttec.props",
+      "PackagePath": "build\\Monttec.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.buildMultiTargeting.Monttec.props",
+      "PackagePath": "buildMultiTargeting\\Monttec.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.buildTransitive.Monttec.props",
+      "PackagePath": "buildTransitive\\Monttec.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

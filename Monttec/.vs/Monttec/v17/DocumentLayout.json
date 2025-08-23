@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Monttec SQL\\Monttec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E40FEE8-E5BB-4B9C-B40F-33084FEBDAA7}|Monttec.Api\\Monttec.Api.csproj|d:\\monttec sql\\monttec\\monttec.api\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E40FEE8-E5BB-4B9C-B40F-33084FEBDAA7}|Monttec.Api\\Monttec.Api.csproj|solutionrelative:monttec.api\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E40FEE8-E5BB-4B9C-B40F-33084FEBDAA7}|Monttec.Api\\Monttec.Api.csproj|d:\\monttec sql\\monttec\\monttec.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E40FEE8-E5BB-4B9C-B40F-33084FEBDAA7}|Monttec.Api\\Monttec.Api.csproj|solutionrelative:monttec.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E40FEE8-E5BB-4B9C-B40F-33084FEBDAA7}|Monttec.Api\\Monttec.Api.csproj|d:\\monttec sql\\monttec\\monttec.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E40FEE8-E5BB-4B9C-B40F-33084FEBDAA7}|Monttec.Api\\Monttec.Api.csproj|solutionrelative:monttec.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Monttec SQL\\Monttec\\Monttec.Api\\Data\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Monttec.Api\\Data\\Entities\\Product.cs",
+              "ToolTip": "D:\\Monttec SQL\\Monttec\\Monttec.Api\\Data\\Entities\\Product.cs",
+              "RelativeToolTip": "Monttec.Api\\Data\\Entities\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBYAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T13:29:00.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Monttec SQL\\Monttec\\Monttec.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Monttec.Api\\appsettings.Development.json",
+              "ToolTip": "D:\\Monttec SQL\\Monttec\\Monttec.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Monttec.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-23T13:22:44.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Monttec SQL\\Monttec\\Monttec.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Monttec.Api\\Program.cs",
+              "ToolTip": "D:\\Monttec SQL\\Monttec\\Monttec.Api\\Program.cs",
+              "RelativeToolTip": "Monttec.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T13:17:25.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

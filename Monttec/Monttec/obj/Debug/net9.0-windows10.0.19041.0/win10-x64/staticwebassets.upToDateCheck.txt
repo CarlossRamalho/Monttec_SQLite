@@ -1,0 +1,8 @@
+D:\Monttec SQL\Monttec\Monttec\wwwroot\css\bootstrap\bootstrap.min.css
+D:\Monttec SQL\Monttec\Monttec\wwwroot\css\bootstrap\bootstrap.min.css.map
+D:\Monttec SQL\Monttec\Monttec\wwwroot\index.html
+D:\Monttec SQL\Monttec\Monttec\wwwroot\css\app.css
+wwwroot\css\app.css
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\index.html

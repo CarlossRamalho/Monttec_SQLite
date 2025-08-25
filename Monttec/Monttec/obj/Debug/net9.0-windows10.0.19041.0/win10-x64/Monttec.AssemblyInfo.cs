@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Monttec")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+48f901c35bba58a9d056b27f2f90ea4abd359d52")]
 [assembly: System.Reflection.AssemblyProductAttribute("Monttec")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Monttec")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

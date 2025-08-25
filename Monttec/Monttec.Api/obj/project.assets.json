@@ -4790,23 +4790,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ramal\\.nuget\\packages\\": {},
+    "C:\\Users\\pwx1082620\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Monttec SQL\\Monttec\\Monttec.Api\\Monttec.Api.csproj",
+      "projectUniqueName": "C:\\Users\\pwx1082620\\Source\\Repos\\Monttec_SQLite\\Monttec\\Monttec.Api\\Monttec.Api.csproj",
       "projectName": "Monttec.Api",
-      "projectPath": "D:\\Monttec SQL\\Monttec\\Monttec.Api\\Monttec.Api.csproj",
-      "packagesPath": "C:\\Users\\ramal\\.nuget\\packages\\",
-      "outputPath": "D:\\Monttec SQL\\Monttec\\Monttec.Api\\obj\\",
+      "projectPath": "C:\\Users\\pwx1082620\\Source\\Repos\\Monttec_SQLite\\Monttec\\Monttec.Api\\Monttec.Api.csproj",
+      "packagesPath": "C:\\Users\\pwx1082620\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pwx1082620\\Source\\Repos\\Monttec_SQLite\\Monttec\\Monttec.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ramal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pwx1082620\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4822,8 +4822,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\Monttec SQL\\Monttec\\Monttec.Shared\\Monttec.Shared.csproj": {
-              "projectPath": "D:\\Monttec SQL\\Monttec\\Monttec.Shared\\Monttec.Shared.csproj"
+            "C:\\Users\\pwx1082620\\Source\\Repos\\Monttec_SQLite\\Monttec\\Monttec.Shared\\Monttec.Shared.csproj": {
+              "projectPath": "C:\\Users\\pwx1082620\\Source\\Repos\\Monttec_SQLite\\Monttec\\Monttec.Shared\\Monttec.Shared.csproj"
             }
           }
         }

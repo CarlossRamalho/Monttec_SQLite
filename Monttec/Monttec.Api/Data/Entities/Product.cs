@@ -20,7 +20,12 @@ public class Product
 
     public static Product[] GetSeedData()
     {
-        const string BaseImageUrl = "https://res.cloudinary.com/monttec/image/upload/v1696116488/products/";
+        const string ImageUrlPrefix = "https://res.cloudinary.com/monttec/image/upload/v1696116488/products/";
+
+        Product[] products = [
+            new () { Id = 1, Name = "Product 1", Description = "Description for Product 1", Price = 19.99M, Stock = $"{ImageUrlPrefix}product1.jpg" },
+            ];
+        return products;
     }
 
 }

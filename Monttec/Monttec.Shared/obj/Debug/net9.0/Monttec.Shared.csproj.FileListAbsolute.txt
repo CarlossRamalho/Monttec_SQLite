@@ -1,0 +1,12 @@
+C:\Users\pwx1082620\Source\Repos\Monttec_SQLite\Monttec\Monttec.Shared\bin\Debug\net9.0\Monttec.Shared.deps.json
+C:\Users\pwx1082620\Source\Repos\Monttec_SQLite\Monttec\Monttec.Shared\bin\Debug\net9.0\Monttec.Shared.dll
+C:\Users\pwx1082620\Source\Repos\Monttec_SQLite\Monttec\Monttec.Shared\bin\Debug\net9.0\Monttec.Shared.pdb
+C:\Users\pwx1082620\Source\Repos\Monttec_SQLite\Monttec\Monttec.Shared\obj\Debug\net9.0\Monttec.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pwx1082620\Source\Repos\Monttec_SQLite\Monttec\Monttec.Shared\obj\Debug\net9.0\Monttec.Shared.AssemblyInfoInputs.cache
+C:\Users\pwx1082620\Source\Repos\Monttec_SQLite\Monttec\Monttec.Shared\obj\Debug\net9.0\Monttec.Shared.AssemblyInfo.cs
+C:\Users\pwx1082620\Source\Repos\Monttec_SQLite\Monttec\Monttec.Shared\obj\Debug\net9.0\Monttec.Shared.csproj.CoreCompileInputs.cache
+C:\Users\pwx1082620\Source\Repos\Monttec_SQLite\Monttec\Monttec.Shared\obj\Debug\net9.0\Monttec.Shared.sourcelink.json
+C:\Users\pwx1082620\Source\Repos\Monttec_SQLite\Monttec\Monttec.Shared\obj\Debug\net9.0\Monttec.Shared.dll
+C:\Users\pwx1082620\Source\Repos\Monttec_SQLite\Monttec\Monttec.Shared\obj\Debug\net9.0\refint\Monttec.Shared.dll
+C:\Users\pwx1082620\Source\Repos\Monttec_SQLite\Monttec\Monttec.Shared\obj\Debug\net9.0\Monttec.Shared.pdb
+C:\Users\pwx1082620\Source\Repos\Monttec_SQLite\Monttec\Monttec.Shared\obj\Debug\net9.0\ref\Monttec.Shared.dll

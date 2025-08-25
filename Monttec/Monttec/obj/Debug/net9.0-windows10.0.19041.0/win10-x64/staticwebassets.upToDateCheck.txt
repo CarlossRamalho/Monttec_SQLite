@@ -1,7 +1,7 @@
-D:\Monttec SQL\Monttec\Monttec\wwwroot\css\bootstrap\bootstrap.min.css
-D:\Monttec SQL\Monttec\Monttec\wwwroot\css\bootstrap\bootstrap.min.css.map
-D:\Monttec SQL\Monttec\Monttec\wwwroot\index.html
-D:\Monttec SQL\Monttec\Monttec\wwwroot\css\app.css
+C:\Users\pwx1082620\Source\Repos\Monttec_SQLite\Monttec\Monttec\wwwroot\css\bootstrap\bootstrap.min.css
+C:\Users\pwx1082620\Source\Repos\Monttec_SQLite\Monttec\Monttec\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\pwx1082620\Source\Repos\Monttec_SQLite\Monttec\Monttec\wwwroot\index.html
+C:\Users\pwx1082620\Source\Repos\Monttec_SQLite\Monttec\Monttec\wwwroot\css\app.css
 wwwroot\css\app.css
 wwwroot\css\bootstrap\bootstrap.min.css
 wwwroot\css\bootstrap\bootstrap.min.css.map

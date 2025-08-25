@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "D:\\Monttec SQL\\Monttec\\Monttec\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Monttec.styles.css",
+      "Id": "C:\\Users\\pwx1082620\\Source\\Repos\\Monttec_SQLite\\Monttec\\Monttec\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Monttec.styles.css",
       "PackagePath": "staticwebassets\\Monttec.styles.css"
     },
     {
-      "Id": "D:\\Monttec SQL\\Monttec\\Monttec\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\pwx1082620\\Source\\Repos\\Monttec_SQLite\\Monttec\\Monttec\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "D:\\Monttec SQL\\Monttec\\Monttec\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\pwx1082620\\Source\\Repos\\Monttec_SQLite\\Monttec\\Monttec\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Monttec SQL\\Monttec\\Monttec\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\pwx1082620\\Source\\Repos\\Monttec_SQLite\\Monttec\\Monttec\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Monttec SQL\\Monttec\\Monttec\\wwwroot\\index.html",
+      "Id": "C:\\Users\\pwx1082620\\Source\\Repos\\Monttec_SQLite\\Monttec\\Monttec\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {

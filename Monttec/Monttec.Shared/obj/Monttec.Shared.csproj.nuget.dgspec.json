@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Monttec SQL\\Monttec\\Monttec.Shared\\Monttec.Shared.csproj": {}
+    "C:\\Users\\pwx1082620\\Source\\Repos\\Monttec_SQLite\\Monttec\\Monttec.Shared\\Monttec.Shared.csproj": {}
   },
   "projects": {
-    "D:\\Monttec SQL\\Monttec\\Monttec.Shared\\Monttec.Shared.csproj": {
+    "C:\\Users\\pwx1082620\\Source\\Repos\\Monttec_SQLite\\Monttec\\Monttec.Shared\\Monttec.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Monttec SQL\\Monttec\\Monttec.Shared\\Monttec.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\pwx1082620\\Source\\Repos\\Monttec_SQLite\\Monttec\\Monttec.Shared\\Monttec.Shared.csproj",
         "projectName": "Monttec.Shared",
-        "projectPath": "D:\\Monttec SQL\\Monttec\\Monttec.Shared\\Monttec.Shared.csproj",
-        "packagesPath": "C:\\Users\\ramal\\.nuget\\packages\\",
-        "outputPath": "D:\\Monttec SQL\\Monttec\\Monttec.Shared\\obj\\",
+        "projectPath": "C:\\Users\\pwx1082620\\Source\\Repos\\Monttec_SQLite\\Monttec\\Monttec.Shared\\Monttec.Shared.csproj",
+        "packagesPath": "C:\\Users\\pwx1082620\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pwx1082620\\Source\\Repos\\Monttec_SQLite\\Monttec\\Monttec.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ramal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pwx1082620\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
